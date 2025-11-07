@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=FFFF00"/>
+</div>
 
-<!--
-**PabloKauaTCosta/PabloKauaTCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PlayfairDisplay&pause=1000&color=FFD700&width=435&lines=Pably)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=PlayfairDisplay&pause=1000&color=FFD700&repeat=false&width=435&lines=Estudanty+de+Desenvolvymento+de+Systema)](https://git.io/typing-svg)
+
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=isahl2&show_icons=true&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff&icon_color=fdd835"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahl2&layout=compact&bg_color=0d1117&title_color=ffeb3b&text_color=ffffff"/>
+</div>
+
+
+<div>
+  <img width="50%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
+
+<img width="30%" align="right" alt="image" src="https://i.pinimg.com/736x/2f/6a/22/2f6a22f491141b40527bbc6bcce76bfa.jpg"/>
+
+
+</div>
+
