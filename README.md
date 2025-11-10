@@ -13,5 +13,5 @@
 
 <div>
   <img width="50%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
-  <img width="50%" align="left" alt="gif" src="[https://www.pinterest.com/ideas/yellow-transparent-gif/916123238768/](https://lh3.googleusercontent.com/_4sWrWh7SqP8/SUZparJsdaI/AAAAAAAAMg4/LpEKqSK0iy4/zaida.png)">
+  <img width="50%" align="left" alt="gif" src="https://www.pinterest.com/ideas/yellow-transparent-gif/916123238768/">
 </div>
