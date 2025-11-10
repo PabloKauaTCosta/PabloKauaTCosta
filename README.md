@@ -16,7 +16,8 @@
 
 <div>
   <img width="50%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
-  <img width="50%" align="left" alt="gif" src="https://pin.it/50GQM7OwT">
+  <img width="50%" align="left" alt="gif" src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a0844950-ed4f-4842-aef6-20007c8dba1d" />
+">
 
 
 
