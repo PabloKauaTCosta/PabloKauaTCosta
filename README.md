@@ -17,7 +17,7 @@
 <div>
   <img width="50%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
 
-<img width="30%" align="right" alt="image" src="https://i.pinimg.com/736x/2f/6a/22/2f6a22f491141b40527bbc6bcce76bfa.jpg"/>
+
 
 
 </div>
