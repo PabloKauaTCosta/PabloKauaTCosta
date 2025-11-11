@@ -13,5 +13,5 @@
 
 <div>
   <img width="40%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
-  <img width="30%" align="right" alt="gif" src="https://i.pinimg.com/originals/24/7f/e8/247fe86a02d5b35629282c435016f55a.gif">
+  <img width="50%" align="right" alt="gif" src="https://i.pinimg.com/originals/24/7f/e8/247fe86a02d5b35629282c435016f55a.gif">
 </div>
