@@ -12,6 +12,6 @@
 </div>
 
 <div>
-    <img width="45%" align="left" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
+    <img width="45%" align="center" alt="gif" src="https://i.pinimg.com/originals/bd/7c/dc/bd7cdc97578d97b9d0fb3f57c2b5ec90.gif">
     <img width="45%" align="center" alt="gif" src=https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif>
 </div>
