@@ -2,9 +2,9 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=FFF363"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FascinateDisplay&pause=1000&color=FFF363&width=435&lines=Pablo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=LobsterDisplay&pause=1000&color=FFF363&width=435&lines=Pablo)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=FascinateDisplay&pause=1000&color=Press+Start+2P3&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=LobsterDisplay&pause=1000&color=Press+Start+2P3&repeat=false&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 
 <div>
