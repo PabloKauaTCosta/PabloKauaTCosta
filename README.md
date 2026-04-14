@@ -8,6 +8,6 @@
 
 
 <div>
-    <img width="45%" align="center" alt="gif" src="Llhama.gif">
+    <img width="50%" align="center" alt="gif" src="Llhama.gif">
     <img width="50%" align="center" alt="gif" src="estrelas.gif">
 </div>
